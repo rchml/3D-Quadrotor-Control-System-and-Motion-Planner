@@ -6,7 +6,7 @@
 
 ### Controls
 - For this project I derived, designed and implemented an attitude and position controller using a PD control loop, ZXY Euler angle rotations, and Newton-Euler equations for non linearized aggressive motion
-- ![A* Search](https://github.com/JeremySMorgan/2DGraphSearch/blob/master/astar.gif)
+- ![A* Search](https://github.com/JeremySMorgan/3D-Quadrotor-Control-System-and-Motion-Planner/blob/master/helix.gif)
 
 ### Motion Planner
 - Generates minimum snap trajectories consisting of n 7th order polynomial piece-wise functions passing through input coordinates
